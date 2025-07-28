@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 # 💫 About Me:
-I am currently working as a Software Engiener<br>I am currently learning and looking for grow and get better <br>opportunity!<br><br>Seriously i want to explore technologies more on the os side not much intended towards web dev but it's amazing to do and make us learn more things and understand the working and functionaltiy for the application around the world, but currently I am interested in low level stuff how to build a kernal and how it is used in linux and how to create some tools and application for linux and windows<br> 
+I am currently working as a Software Engiener<br>I am currently learning and looking for opportunities!! to learn and grow and get better in the things i enjoy most to do on internet <br><br>Seriously i want to explore technologies more on the os side not much intended towards web dev but it's amazing to do and make us learn more things and understand the working and functionaltiy for the application around the world, but currently I am interested in low level stuff how to build a kernal and how it is used in linux and how to create some tools and application for linux and windows<br> 
 
 
 ## 🌐 Socials:

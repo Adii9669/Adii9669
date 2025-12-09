@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 # 💫 About Me:
-I am currently working as a Software Engiener<br>I am currently learning and looking for opportunities!! to learn and grow and get better in the things i enjoy most to do on internet <br><br>Seriously i want to explore technologies more on the os side not much intended towards web dev but it's amazing to do and make us learn more things and understand the working and functionaltiy for the application around the world, but currently I am interested in low level stuff how to build a kernal and how it is used in linux and how to create some tools and application for linux and windows<br> 
+I am Software Engiener the laziest in all kind of professions yet loves to work on chanllenging topic in which i don't know much<br>I love to learn things and the process of learning a new technology and I am currently learning Go Lang and some fun project To kill my time and enjoy the thing of building something from scratch <br><br>I Use the Arch in between and Working on it's and enjoying it on full love's to work on OS and looking for a project to learn and contribute<br> 
 
 
 ## 🌐 Socials:
